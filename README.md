@@ -1,2 +1,2 @@
 # flaskProject
-A learning flask through a project website
+Learning flask through a project website
